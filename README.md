@@ -9,3 +9,6 @@ Script location: C:\Script\vds-bkp.ps1
 # Windows Task:
 * name: vds-backup
 * action: powershell -ExecutionPolicy Unrestricted -File C:\Script\vds-bkp.ps1
+
+# Note:
+To import configuration, the second script should be considered
