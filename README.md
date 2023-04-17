@@ -1,5 +1,3 @@
-
-
 Description: This script exports all the virtual distributed switches configurations and place the backup on a local location
 
 Backup location: C:\Backups\Switch\backup_date
