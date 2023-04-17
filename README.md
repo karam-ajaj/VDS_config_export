@@ -1,4 +1,4 @@
-# A script to export all VDS configuration for multiple vCenters
+
 
 Description: This script exports all the virtual distributed switches configurations and place the backup on a local location
 
